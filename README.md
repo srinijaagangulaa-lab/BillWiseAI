@@ -13,7 +13,7 @@ https://github.com/srinijaagangulaa-lab/BillWiseAI
 ---
 ## 📸 Screenshots
 
-![BillWise AI Dashboard](screenshots/dashboard.png)
+![BillWise AI Dashboard](screenshots/Screenshot.png)
 
 ## 📌 Overview
 
