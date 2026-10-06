@@ -13,7 +13,7 @@ https://github.com/srinijaagangulaa-lab/BillWiseAI
 ---
 ## 📸 Screenshots
 
-![BillWise AI Dashboard]("C:\Users\gangu\OneDrive\Desktop\Screenshot.png")
+![BillWise AI Dashboard](screenshots/dashboard.png)
 
 ## 📌 Overview
 
