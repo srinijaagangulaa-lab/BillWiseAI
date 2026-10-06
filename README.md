@@ -11,6 +11,9 @@ https://billwise-ai1.streamlit.app/
 https://github.com/srinijaagangulaa-lab/BillWiseAI
 
 ---
+## 📸 Screenshots
+
+![BillWise AI Dashboard]("C:\Users\gangu\OneDrive\Desktop\Screenshot.png")
 
 ## 📌 Overview
 
